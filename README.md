@@ -2,7 +2,7 @@
 
 **Config:**
 
-```js
+```
 - git clone https://github.com/Ghosty2004/SteamIdler.git
 - npm install
 - npm install -g typescript ts-node

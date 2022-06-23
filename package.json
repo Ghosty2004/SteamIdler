@@ -1,0 +1,15 @@
+{
+  "name": "steamidle",
+  "version": "1.0.0",
+  "description": "Steam Idler (make hours over hours :D)",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ghosty2004",
+  "license": "ISC",
+  "dependencies": {
+    "@types/steam-user": "^4.23.0",
+    "steam-user": "^4.24.3"
+  }
+}
